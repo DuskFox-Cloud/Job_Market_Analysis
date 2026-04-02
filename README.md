@@ -79,6 +79,7 @@ Created visual insights for:
 ## 📁 Files Included
 - `Market.ipynb` → Full notebook with EDA and insights
 - `README.md` → Project overview and findings
+- `market.json` → Raw Job Market Dataset
 
 ---
 
