@@ -79,8 +79,8 @@ Created visual insights for:
 ## 📁 Files Included
 - `Market.ipynb` → Full notebook with EDA and insights
 - `README.md` → Project overview and findings
-- `market.json` → Raw datset in .Jason file
-- `market_cleaned.csv` → Clean Dataset in .CSV file.
+- `market.json` → Raw Market Dataset in .Json file
+- `market_cleaned.csv` → Clean Market Dataset in .CSV file.
 - `Job Market Salary & Skills Intelligence Dashboard.pbix` → The job market dashboard for the dataset is currently under development.
 
 ---
